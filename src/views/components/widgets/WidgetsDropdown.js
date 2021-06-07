@@ -19,8 +19,8 @@ const WidgetsDropdown = () => {
         <CWidgetDropdown
           className="mb-4"
           color="primary"
-          value="9.823"
-          title="Members online"
+          value="25"
+          title="Utilisateurs"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -99,8 +99,8 @@ const WidgetsDropdown = () => {
         <CWidgetDropdown
           className="mb-4"
           color="info"
-          value="9.823"
-          title="Members online"
+          value="90"
+          title="Vehicules/Motos"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -178,8 +178,8 @@ const WidgetsDropdown = () => {
         <CWidgetDropdown
           className="mb-4"
           color="warning"
-          value="9.823"
-          title="Members online"
+          value="40"
+          title="Demandes"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -244,8 +244,8 @@ const WidgetsDropdown = () => {
         <CWidgetDropdown
           className="mb-4"
           color="danger"
-          value="9.823"
-          title="Members online"
+          value="20"
+          title="Bon de Carburant"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
