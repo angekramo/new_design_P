@@ -25,8 +25,8 @@ const Login = () => {
               <CCard className="p-4">
                 <CCardBody>
                   <CForm>
-                    <h1>Login</h1>
-                    <p className="text-medium-emphasis">Sign In to your account</p>
+                    <h1>Connexion</h1>
+                    <p className="text-medium-emphasis">Entrer Email & Mot de Pass</p>
                     <CInputGroup className="mb-3">
                       <CInputGroupText>
                         <CIcon name="cil-user" />
@@ -46,12 +46,12 @@ const Login = () => {
                     <CRow>
                       <CCol xs="6">
                         <CButton color="primary" className="px-4">
-                          Login
+                          Valider
                         </CButton>
                       </CCol>
                       <CCol xs="6" className="text-right">
                         <CButton color="link" className="px-0">
-                          Forgot password?
+                          Mot de pass onblier?
                         </CButton>
                       </CCol>
                     </CRow>
